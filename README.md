@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This APP was created from the tutorial https://blog.alexdevero.com/build-react-app-express-api/
+
 ## Available Scripts
 
 In the project directory, you can run:
